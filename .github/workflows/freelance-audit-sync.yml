@@ -1,6 +1,9 @@
 name: Freelance audit sync
 
 on:
+  push:
+    paths:
+      - '.github/workflows/freelance-audit-sync.yml'
   schedule:
     - cron: '*/10 * * * *'
   workflow_dispatch:
