@@ -13,27 +13,41 @@ permissions:
 
 concurrency:
   group: freelance-audit-sync
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - name: Fetch audit feed
         shell: bash
         run: |
           set -euo pipefail
           mkdir -p freelance_audit
-          curl -fsS https://kwork-hunter.vova2015serjant.workers.dev/audit-export -o freelance_audit/audit.json.tmp
-          mv freelance_audit/audit.json.tmp freelance_audit/audit.json
-      - name: Commit changes
+          curl -fsS https://kwork-hunter.vova2015serjant.workers.dev/audit-export -o /tmp/freelance-audit.json
+          cp /tmp/freelance-audit.json freelance_audit/audit.json
+      - name: Commit changes safely
         shell: bash
         run: |
+          set -euo pipefail
           git config user.name 'freelance-audit-bot'
           git config user.email 'actions@users.noreply.github.com'
-          git add freelance_audit/audit.json
-          if ! git diff --cached --quiet; then
+          save_and_push() {
+            git add freelance_audit/audit.json
+            if git diff --cached --quiet; then
+              echo 'No audit changes'
+              return 0
+            fi
             git commit -m 'Sync freelance audit decisions'
-            git push
-          fi
+            git push origin HEAD:main
+          }
+          if save_and_push; then exit 0; fi
+          echo 'Remote changed; retrying from latest main'
+          git fetch origin main
+          git reset --hard origin/main
+          mkdir -p freelance_audit
+          cp /tmp/freelance-audit.json freelance_audit/audit.json
+          save_and_push
