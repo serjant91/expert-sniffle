@@ -71,7 +71,7 @@ def extract_description(page):
 
 def fetch_full_description(url, fallback):
     try:
-        raw, cs = fetch_bytes(url, timeout=15)
+        raw, cs = fetch_bytes(url, timeout=12)
         text = decode_bytes(raw, cs)
         full = extract_description(text)
         if full:
@@ -95,11 +95,13 @@ def strip_budget(title):
 
 
 def main():
+    first_run = not OUT.exists()
     raw, charset = fetch_bytes(RSS_URL)
     xml_text = decode_bytes(raw, charset)
     root = ET.fromstring(xml_text)
     old = load_old()
     projects = []
+    fetched_new = 0
 
     for item in root.findall("./channel/item"):
         title_raw = clean(item.findtext("title") or "")
@@ -112,12 +114,15 @@ def main():
         published = clean(item.findtext("pubDate") or "")
         categories = [clean(x.text or "") for x in item.findall("category")]
 
-        if pid in old and old[pid].get("description_complete"):
-            description = old[pid].get("description", fallback)
-            complete = True
+        if pid in old:
+            description = old[pid].get("description") or fallback
+            complete = bool(old[pid].get("description_complete"))
+        elif first_run:
+            description, complete = fallback, False
         else:
             description, complete = fetch_full_description(url, fallback)
-            time.sleep(0.35)
+            fetched_new += 1
+            time.sleep(0.25)
 
         projects.append({
             "id": pid,
@@ -137,7 +142,7 @@ def main():
         "projects": projects[:MAX_KEEP],
     }
     OUT.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"FL feed: {len(projects)} projects; full descriptions: {sum(1 for x in projects if x['description_complete'])}")
+    print(f"FL feed: {len(projects)} projects; fetched new details: {fetched_new}; full descriptions: {sum(1 for x in projects if x['description_complete'])}")
 
 
 if __name__ == "__main__":
