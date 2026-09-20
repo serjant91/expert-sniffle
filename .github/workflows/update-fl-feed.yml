@@ -1,0 +1,36 @@
+name: Update FL.ru feed
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fl-feed
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 4
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Build feed
+        run: python3 fl_feed.py
+
+      - name: Commit changed feed
+        run: |
+          if git diff --quiet -- feed.json; then
+            echo "No feed changes"
+            exit 0
+          fi
+          git config user.name "fl-feed-bot"
+          git config user.email "fl-feed-bot@users.noreply.github.com"
+          git add feed.json
+          git commit -m "Update FL.ru feed"
+          git push
