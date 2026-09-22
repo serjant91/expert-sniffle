@@ -1,5 +1,5 @@
 {
-  "revision": "2026-09-22T10:09:17Z",
+  "revision": "2026-09-22T12:07:00Z",
   "rules": [
     "Не считать задачу подходящей только потому, что AI теоретически может сгенерировать результат. Нужна возможность уверенно проверить качество до сдачи клиенту.",
     "Сложный игровой/YouTube-монтаж, кастомный дизайн с нуля, полиграфия и нишевые визуальные задачи обычно не подходят, если успех зависит от профессиональной насмотренности или ручного craft-навыка.",
@@ -52,5 +52,12 @@
     "Провести записанный вебинар как спикер по медицинскому туру, даже если заказчик даёт готовую презентацию и сценарий: фактическая задача — выступление/ведение вебинара, а не редактирование презентации."
   ],
   "requeue": [],
-  "force_send": []
+  "force_send": [
+    {"source":"fl","id":"5522672","reason":"CLEAR direct fit: existing small Python parser has concrete selector/login breakage and an end-to-end test path; matches bounded parser-fix experience."},
+    {"source":"fl","id":"5522703","reason":"CLEAR bounded AI-tool setup: connect Codex/OpenAI through an aggregator; narrow configuration task with an objectively testable result."},
+    {"source":"fl","id":"5522753","reason":"CLEAR data-research fit: collect a defined B2B contact base for HR/sales leaders; no calls, outreach or campaign responsibility stated."},
+    {"source":"fl","id":"5522774","reason":"CLEAR Excel fit: create an Excel table to calculate equipment operating hours; directly matches spreadsheet/formula automation."},
+    {"source":"fl","id":"5522778","reason":"CLEAR bounded site fit: explicitly a simple landing page for an English tutor, with no backend/payments/auth/integrations stated."},
+    {"source":"fl","id":"5522815","reason":"CLEAR bounded site edit: copy a lightweight one-page site and replace the team section; objectively testable, no backend/integration scope stated."}
+  ]
 }
