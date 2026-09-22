@@ -1,5 +1,5 @@
 {
-  "revision": "2026-09-22T00:10:00Z",
+  "revision": "2026-09-22T03:07:30Z",
   "rules": [
     "Не считать задачу подходящей только потому, что AI теоретически может сгенерировать результат. Нужна возможность уверенно проверить качество до сдачи клиенту.",
     "Сложный игровой/YouTube-монтаж, кастомный дизайн с нуля, полиграфия и нишевые визуальные задачи обычно не подходят, если успех зависит от профессиональной насмотренности или ручного craft-навыка.",
@@ -52,5 +52,9 @@
     "Провести записанный вебинар как спикер по медицинскому туру, даже если заказчик даёт готовую презентацию и сценарий: фактическая задача — выступление/ведение вебинара, а не редактирование презентации."
   ],
   "requeue": [],
-  "force_send": []
+  "force_send": [
+    {"source":"fl","id":"5522672","reason":"Existing small Python parser has two concrete breakages (login button selector and match-row selector) with an included run instruction; bounded, objectively testable repair matches allowed AI-assisted parser work."},
+    {"source":"fl","id":"5522753","reason":"Collect a contact database for a defined B2B target audience into a table; no calls, outreach, campaign ownership or sales are required in the available description."},
+    {"source":"fl","id":"5522815","reason":"Copy a lightweight one-page site and replace/add the client's team; clearly bounded simple-site implementation with an objectively checkable result and no stated backend/integration requirements."}
+  ]
 }
