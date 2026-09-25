@@ -3094,6 +3094,361 @@
   ],
   "pending": [
     {
+      "source": "fl",
+      "id": "5523338",
+      "title": "Дизайн сайта на Tilda",
+      "description": "Дизайн сайта на Tilda: проектная работа на дому в сфере Сайты / Тильда с бюджетом по договоренности. Опубликован 25.09.2026 в 13:16.",
+      "budget": "",
+      "url": "https://www.fl.ru/projects/5523338/dizayn-sayta-na-tilda.html",
+      "queuedAt": 1790331497401,
+      "directFit": null
+    },
+    {
+      "source": "fl",
+      "id": "5523341",
+      "title": "Нужно разработать гейминг бота",
+      "description": "Нужно разработать гейминг бота который помогает играть, дает советы, подсказки, онлайн во время игры",
+      "budget": "",
+      "url": "https://www.fl.ru/projects/5523341/nujno-razrabotat-geyming-bota.html",
+      "queuedAt": 1790331496199,
+      "directFit": null
+    },
+    {
+      "source": "fl",
+      "id": "5523335",
+      "title": "Разработка программы поиска транспортных компаний с GPT и Claude (для всех)",
+      "description": "Ищу разработчика: программа с ChatGPT и Claude для поиска перевозчиков Для нужна программа, которая помогает находить частных перевозчиков, водителей со своими фургонами и транспортные компании под конкретные заявки на перевозку. Пример задачи: найти перевозчиков на маршрут Финляндия → Эстония → Латвия для доставки личных вещей - 15 мест, 192 кг. Что должна делать программа: - Искать контакты на сайтах, в каталогах, публичных Telegram-каналах и группах, а также в доступных группах в соцсети. Для закрытых источников - использовать только разрешённый доступ. - Находить телефон, email, Telegram, сайт, географию перевозок и информацию о подходящем транспорте. - Проверять актуальность контактов, сохранять ссылку на источник и дату проверки. Не придумывать отсутствующие данные. - Убирать дубли, в том числе когда одна компания работает под разными названиями. - Сортировать результаты по пригодности под заявку: сначала частники и небольшие фургоны, затем транспортные компании и резервные варианты. - Выгружать результат в Excel с фильтрами и кликабельными ссылками. ChatGPT и Claude должны работать в паре: один собирает и структурирует информацию, второй проверяет источники, дубли и соответствие заявке. Нужна понятная схема взаимодействия, чтобы модели дополняли друг друга и не выполняли одну работу дважды. Интерфейс: вводим маршрут, параметры груза и пожелания, запускаем поиск и получаем таблицу. Должны отображаться ход работы, расходы на поиск и причины, по которым контакт рекомендован. На первом этапе нужна рабочая версия для поиска и проверки контактов. Автоматическую рассылку и отправку сообщений пока не включаем. От разработчика прошу: Предложить техническое решение и объяснить, какие источники доступны для автоматического поиска, а где потребуется участие человека. Описать, как будут взаимодействовать ChatGPT и Claude. Указать сроки и стоимость первой версии, а также примерные ежемесячные расходы на сервисы. Показать примеры похожих проектов, если они есть. Результат работы: работающая программа, исходный код, инструкция по запуску и возможность дальнейшего развития. Для проверки первой версии используем реальную заявку: программа должна собрать минимум 40 уникальных контактов, указать источники и явно отметить всё, что не удалось подтвердить. В отклике напишите ваш подход, сроки, бюджет и ограничения работы с Telegram.",
+      "budget": "",
+      "url": "https://www.fl.ru/projects/5523335/razrabotka-programmyi-poiska-transportnyih-kompaniy-s-gpt-i-claude.html",
+      "queuedAt": 1790330429925,
+      "directFit": {
+        "kind": "Excel/Sheets",
+        "score": 96,
+        "reason": "DIRECT FIT: Excel/Sheets. Задача совпадает с подтверждёнными навыками Владимира и имеет проверяемый результат.",
+        "draft": "Здравствуйте! Могу выполнить задачу в Excel/Google Sheets и проверить результат на ваших данных перед сдачей."
+      }
+    },
+    {
+      "source": "fl",
+      "id": "5523337",
+      "title": "Тг боты",
+      "description": "Боты которые общаются друг с другом в тг чате",
+      "budget": "",
+      "url": "https://www.fl.ru/projects/5523337/tg-botyi-.html",
+      "queuedAt": 1790330429552,
+      "directFit": null
+    },
+    {
+      "source": "fl",
+      "id": "5523336",
+      "title": "Нужен опытный дизайнер для отрисовки сайта по строительству домов",
+      "description": "проектная работа на дому в сфере Дизайн / Дизайн сайтов с бюджетом 50000 руб. Опубликован 25.09.2026 в 12:43.",
+      "budget": "50000 ₽",
+      "url": "https://www.fl.ru/projects/5523336/nujen-opyitnyiy-dizayner-dlya-otrisovki-sayta-po-stroitelstvu-domov.html",
+      "queuedAt": 1790330429190,
+      "directFit": null
+    },
+    {
+      "source": "fl",
+      "id": "5523334",
+      "title": "Создание базы интернет-магазинов для менеджера",
+      "description": "Создание базы интернет-магазинов для менеджера: проектная работа на дому в сфере Реклама и Маркетинг / Сбор и обработка информации с бюджетом по договоренности. Опубликован 25.09.2026 в 12:22.",
+      "budget": "",
+      "url": "https://www.fl.ru/projects/5523334/sozdanie-bazyi-internet-magazinov-dlya-menedjera.html",
+      "queuedAt": 1790330428837,
+      "directFit": null
+    },
+    {
+      "source": "fl",
+      "id": "5523333",
+      "title": "Необходима корректировка каталога компании",
+      "description": "Необходимо выполнить переработку каталога компании. Убрать лишние разделы, добавить новые.",
+      "budget": "",
+      "url": "https://www.fl.ru/projects/5523333/neobhodima-korrektirovka-kataloga-kompanii.html",
+      "queuedAt": 1790330426874,
+      "directFit": null
+    },
+    {
+      "source": "fl",
+      "id": "5523332",
+      "title": "Разработка рабочей документации (РД) разделов ОВиК и ВК в Revit 2021 (ЖК + Детский сад)",
+      "description": "Разработка рабочей документации (РД) разделов ОВиК и ВК в Revit 2021 (ЖК + Детский сад): проектная работа на дому в сфере Инжиниринг / BIM с бюджетом по договоренности. Опубликован 25.09.2026 в 12:20.",
+      "budget": "",
+      "url": "https://www.fl.ru/projects/5523332/razrabotka-rabochey-dokumentatsii-rd-razdelov-ovik-i-vk-v-revit-2021-jk--detskiy-sad.html",
+      "queuedAt": 1790330426524,
+      "directFit": null
+    },
+    {
+      "source": "fl",
+      "id": "5523331",
+      "title": "Нужны исполнители на разделы ПОС, ПБ и ООС",
+      "description": "проектная работа на дому в сфере Инжиниринг / Чертежи/Схемы с бюджетом 50000 руб. Опубликован 25.09.2026 в 12:05.",
+      "budget": "50000 ₽",
+      "url": "https://www.fl.ru/projects/5523331/nujnyi-ispolniteli-na-razdelyi-pos-pb-i-oos.html",
+      "queuedAt": 1790330425111,
+      "directFit": null
+    },
+    {
+      "source": "fl",
+      "id": "5523330",
+      "title": "Создание AI-мультсериала для TikTok о школьниках, 30–60 сек.",
+      "description": "Создание AI-мультсериала для TikTok о школьниках, 30–60 сек.: проектная работа на дому в сфере AI — искусственный интеллект / Генерация видео с бюджетом по договоренности. Опубликован 25.09.2026 в 12:04.",
+      "budget": "",
+      "url": "https://www.fl.ru/projects/5523330/sozdanie-ai-multseriala-dlya-tiktok-o-shkolnikah-3060-sek.html",
+      "queuedAt": 1790330424754,
+      "directFit": null
+    },
+    {
+      "source": "fl",
+      "id": "5523329",
+      "title": "Парсинг продавцов подвесных лодочных моторов, производителей лодок и катеров",
+      "description": "Парсинг продавцов подвесных лодочных моторов, производителей лодок и катеров: проектная работа на дому в сфере Аутсорсинг и консалтинг / Статистический анализ с бюджетом по договоренности. Опубликован 25.09.2026 в 12:03.",
+      "budget": "",
+      "url": "https://www.fl.ru/projects/5523329/parsing-prodavtsov-podvesnyih-lodochnyih-motorov-proizvoditeley-lodok-i-katerov.html",
+      "queuedAt": 1790330423826,
+      "directFit": null
+    },
+    {
+      "source": "fl",
+      "id": "5523328",
+      "title": "Ищем респондентов, имеющих регулярные подработки в ритейле (продавцы/ кассиры, работники и др",
+      "description": "проектная работа на дому в сфере Реклама и Маркетинг / Исследования с бюджетом 1800 руб. Опубликован 25.09.2026 в 12:02.",
+      "budget": "1800 ₽",
+      "url": "https://www.fl.ru/projects/5523328/ischem-respondentov-imeyuschih-regulyarnyie-podrabotki-v-riteyle-prodavtsyi--kassiryi-rabotniki-i-dr.html",
+      "queuedAt": 1790330421531,
+      "directFit": null
+    },
+    {
+      "source": "fl",
+      "id": "5523325",
+      "title": "Обработка фото!",
+      "description": "Обработка фото!: проектная работа на дому в сфере Аудио/Видео/Фото / Ретуширование/Коллажи с бюджетом по договоренности. Опубликован 25.09.2026 в 11:43.",
+      "budget": "",
+      "url": "https://www.fl.ru/projects/5523325/obrabotka-foto.html",
+      "queuedAt": 1790326280173,
+      "directFit": null
+    },
+    {
+      "source": "fl",
+      "id": "5523323",
+      "title": "Тендер: новый сайт на WordPress — дизайн, разработка и перенос",
+      "description": "Тендер: новый сайт на WordPress — дизайн, разработка и перенос: проектная работа на дому в сфере Сайты / WordPress с бюджетом по договоренности. Опубликован 25.09.2026 в 11:30.",
+      "budget": "",
+      "url": "https://www.fl.ru/projects/5523323/tender-novyiy-sayt-na-wordpress--dizayn-razrabotka-i-perenos.html",
+      "queuedAt": 1790325380126,
+      "directFit": null
+    },
+    {
+      "source": "fl",
+      "id": "5523320",
+      "title": "Отрисовать в CorelDRAW план некоторых этажей многоквартироного дома",
+      "description": "проектная работа на дому в сфере Дизайн / Полиграфический дизайн с бюджетом 5000 руб. Опубликован 25.09.2026 в 11:29.",
+      "budget": "5000 ₽",
+      "url": "https://www.fl.ru/projects/5523320/otrisovat-v-coreldraw-plan-nekotoryih-etajey-mnogokvartironogo-doma.html",
+      "queuedAt": 1790325020226,
+      "directFit": null
+    },
+    {
+      "source": "fl",
+      "id": "5523319",
+      "title": "Создание карточек для Маркетплейсов (для всех)",
+      "description": "Создание заглавной карточки и 2 карточки с описанием Товар: металлические двери, на главной карточке разместить дверь с внешней стороны и с внутренней. На 2 и 3 карточке описание преимуществ/комплектации, примеры есть, ТЗ",
+      "budget": "",
+      "url": "https://www.fl.ru/projects/5523319/sozdanie-kartochek-dlya-marketpleysov.html",
+      "queuedAt": 1790324299449,
+      "directFit": null
+    },
+    {
+      "source": "fl",
+      "id": "5523311",
+      "title": "ауауцацуацуацуауцацуауцауца",
+      "description": "авывыфаф",
+      "budget": "",
+      "url": "https://www.fl.ru/projects/5523311/auautsatsuatsuatsuautsatsuautsautsa.html",
+      "queuedAt": 1790322624297,
+      "directFit": null
+    },
+    {
+      "source": "fl",
+      "id": "5523310",
+      "title": "Тендер: разработка двух лендингов на Tilda для финансовой компании",
+      "description": "Тендер: разработка двух лендингов на Tilda для финансовой компании: проектная работа на дому в сфере Сайты / Тильда с бюджетом по договоренности. Опубликован 25.09.2026 в 10:43.",
+      "budget": "",
+      "url": "https://www.fl.ru/projects/5523310/tender-razrabotka-dvuh-lendingov-na-tilda-dlya-finansovoy-kompanii.html",
+      "queuedAt": 1790322623914,
+      "directFit": null
+    },
+    {
+      "source": "fl",
+      "id": "5523309",
+      "title": "Нужно перенести рабочую базу данных с Firebird на PostgreSQL без потери данных.",
+      "description": "проектная работа на дому в сфере Программирование / Базы данных с бюджетом 40000 руб. Опубликован 25.09.2026 в 10:36.",
+      "budget": "40000 ₽",
+      "url": "https://www.fl.ru/projects/5523309/nujno-perenesti-rabochuyu-bazu-dannyih-s-firebird-na-postgresql-bez-poteri-dannyih.html",
+      "queuedAt": 1790322622928,
+      "directFit": null
+    },
+    {
+      "source": "fl",
+      "id": "5523307",
+      "title": "Собственная CRM",
+      "description": "Разработка и внедрение собственной CRM системы для сайта Имеющиеся и распространенные в системы Битрикс, Амо, Мегаплан и т.д. не рассматриваем.",
+      "budget": "",
+      "url": "https://www.fl.ru/projects/5523307/sobstvennaya-crm.html",
+      "queuedAt": 1790322622560,
+      "directFit": null
+    },
+    {
+      "source": "fl",
+      "id": "5523305",
+      "title": "Создать приложение для работы с поставщиками в Битрикс24 -облако",
+      "description": "Создать приложение для работы с поставщиками в Битрикс24 -облако: проектная работа на дому в сфере Автоматизация бизнеса / Битрикс24 с бюджетом по договоренности. Опубликован 25.09.2026 в 09:54.",
+      "budget": "",
+      "url": "https://www.fl.ru/projects/5523305/sozdat-prilojenie-dlya-rabotyi-s-postavschikami-v-bitriks24--oblako.html",
+      "queuedAt": 1790322622206,
+      "directFit": null
+    },
+    {
+      "source": "fl",
+      "id": "5523306",
+      "title": "Монтаж ролика по игре",
+      "description": "Монтаж ролика по игре: проектная работа на дому в сфере Аудио/Видео/Фото / Видеомонтаж с бюджетом по договоренности. Опубликован 25.09.2026 в 10:23.",
+      "budget": "",
+      "url": "https://www.fl.ru/projects/5523306/montaj-rolika-po-igre.html",
+      "queuedAt": 1790322621174,
+      "directFit": null
+    },
+    {
+      "source": "fl",
+      "id": "5523304",
+      "title": "Разместить позитивный отклик на площадке в интернете.",
+      "description": "Разместить позитивный отклик на площадке в интернете.: проектная работа на дому в сфере Тексты / Постинг с бюджетом 60 руб. Опубликован 25.09.2026 в 09:32.",
+      "budget": "60",
+      "url": "https://www.fl.ru/projects/5523304/razmestit-pozitivnyiy-otklik-na-ploschadke-v-internete.html",
+      "queuedAt": 1790318213396,
+      "directFit": null
+    },
+    {
+      "source": "fl",
+      "id": "5523303",
+      "title": "Разработка дизайна: шапки + аватар для YouTube канала",
+      "description": "Разработка дизайна: шапки + аватар для YouTube канала: проектная работа на дому в сфере Дизайн / Баннеры с бюджетом по договоренности. Опубликован 25.09.2026 в 09:32.",
+      "budget": "",
+      "url": "https://www.fl.ru/projects/5523303/razrabotka-dizayna-shapki--avatar-dlya-youtube-kanala.html",
+      "queuedAt": 1790318211954,
+      "directFit": null
+    },
+    {
+      "source": "fl",
+      "id": "5523301",
+      "title": "Изменить угол наклона скаты крыши Archicad",
+      "description": "Изменить угол наклона скаты крыши Archicad: проектная работа на дому в сфере Инжиниринг / ArchiCAD с бюджетом по договоренности. Опубликован 25.09.2026 в 09:27.",
+      "budget": "",
+      "url": "https://www.fl.ru/projects/5523301/izmenit-ugol-naklona-skatyi-kryishi-archicad-.html",
+      "queuedAt": 1790318103933,
+      "directFit": null
+    },
+    {
+      "source": "fl",
+      "id": "5523300",
+      "title": "Создание дашбордов в Datalens",
+      "description": "Создание дашбордов в Datalens: проектная работа на дому в сфере Программирование / Прикладное программирование с бюджетом по договоренности. Опубликован 25.09.2026 в 09:18.",
+      "budget": "",
+      "url": "https://www.fl.ru/projects/5523300/sozdanie-dashbordov-v-datalens.html",
+      "queuedAt": 1790318102230,
+      "directFit": null
+    },
+    {
+      "source": "fl",
+      "id": "5523299",
+      "title": "Сделать задание в программе Orange",
+      "description": "проектная работа на дому в сфере Программирование / Базы данных с бюджетом 1000 руб. Опубликован 25.09.2026 в 09:13.",
+      "budget": "1000 ₽",
+      "url": "https://www.fl.ru/projects/5523299/sdelat-zadanie-v-programme-orange.html",
+      "queuedAt": 1790318100951,
+      "directFit": null
+    },
+    {
+      "source": "fl",
+      "id": "5523298",
+      "title": "Нужно создать бота в телеграмме",
+      "description": "Нужно создать бота с необычным название. Все должно быть со скриптами и под ключ. Так же настроить в боте все предложения иконок , иконка «личного кабинета» , «тариф» и тд",
+      "budget": "",
+      "url": "https://www.fl.ru/projects/5523298/nujno-sozdat-bota-v-telegramme-.html",
+      "queuedAt": 1790318100237,
+      "directFit": null
+    },
+    {
+      "source": "fl",
+      "id": "5523297",
+      "title": "Вырезать фон",
+      "description": "проектная работа на дому в сфере Аудио/Видео/Фото / Фото Архитектуры/Интерьеров с бюджетом 400 руб. Опубликован 25.09.2026 в 08:13.",
+      "budget": "400 ₽",
+      "url": "https://www.fl.ru/projects/5523297/vyirezat-fon.html",
+      "queuedAt": 1790318099462,
+      "directFit": null
+    },
+    {
+      "source": "fl",
+      "id": "5523294",
+      "title": "Распознать 3 страниц текста в WORD старинный русский текст",
+      "description": "Распознать 3 страниц текста в WORD старинный русский текст: проектная работа на дому в сфере Тексты / Сканирование и распознавание с бюджетом по договоренности. Опубликован 25.09.2026 в 07:45.",
+      "budget": "",
+      "url": "https://www.fl.ru/projects/5523294/raspoznat-3-stranits-teksta-v-word-starinnyiy-russkiy-tekst.html",
+      "queuedAt": 1790318098840,
+      "directFit": null
+    },
+    {
+      "source": "fl",
+      "id": "5523289",
+      "title": "Ищем разработчика сайта на WordPress + Breakdance",
+      "description": "Ищем разработчика сайта на WordPress + Breakdance: проектная работа на дому в сфере Сайты / WordPress с бюджетом по договоренности. Опубликован 25.09.2026 в 07:45.",
+      "budget": "",
+      "url": "https://www.fl.ru/projects/5523289/ischem-razrabotchika-sayta-na-wordpress--breakdance.html",
+      "queuedAt": 1790318097350,
+      "directFit": null
+    },
+    {
+      "source": "fl",
+      "id": "5523287",
+      "title": "Ищу специалиста по Heygen",
+      "description": "проектная работа на дому в сфере AI — искусственный интеллект / AI-аватары с бюджетом 10000 руб. Опубликован 25.09.2026 в 07:44.",
+      "budget": "10000 ₽",
+      "url": "https://www.fl.ru/projects/5523287/ischu-spetsialista-po-heygen.html",
+      "queuedAt": 1790318095722,
+      "directFit": null
+    },
+    {
+      "source": "fl",
+      "id": "5523293",
+      "title": "для сайта пасеки",
+      "description": "проектная работа на дому в сфере Дизайн / Дизайн сайтов с бюджетом 1000 руб. Опубликован 25.09.2026 в 07:44.",
+      "budget": "1000 ₽",
+      "url": "https://www.fl.ru/projects/5523293/dlya-sayta-paseki-.html",
+      "queuedAt": 1790318094760,
+      "directFit": null
+    },
+    {
+      "source": "fl",
+      "id": "5523295",
+      "title": "Opencart 3 &#150; устранить пару ошибок",
+      "description": "Opencart 3 - устранить пару ошибок: проектная работа на дому в сфере Сайты / OpenCart с бюджетом 2000 руб. Опубликован 25.09.2026 в 07:44.",
+      "budget": "",
+      "url": "https://www.fl.ru/projects/5523295/opencart-3---ustranit-paru-oshibok.html",
+      "queuedAt": 1790318094002,
+      "directFit": null
+    },
+    {
+      "source": "fl",
+      "id": "5523288",
+      "title": "Нужна игровая 3D модель собаки",
+      "description": "Нужна игровая 3D модель собаки: проектная работа на дому в сфере Анимация / 3D Анимация с бюджетом по договоренности. Опубликован 25.09.2026 в 07:43.",
+      "budget": "",
+      "url": "https://www.fl.ru/projects/5523288/nujna-igrovaya-3d-model-sobaki.html",
+      "queuedAt": 1790314012032,
+      "directFit": null
+    },
+    {
       "source": "kwork",
       "id": "3258850",
       "title": "Авито",
@@ -3741,356 +4096,6 @@
       "budget": "",
       "url": "https://www.fl.ru/projects/5523190/raschet-ustoychivosti-k-vnutrennemu-izbyitochnomu-davleniyu-izdeliy-iz-nerjaveyuschey-stali.html",
       "queuedAt": 1790244649057,
-      "directFit": null
-    },
-    {
-      "source": "fl",
-      "id": "5523189",
-      "title": "Создание 3D-персонажа с ригом для Motion Capture (для всех)",
-      "description": "Необходимо создать полноценную 3D-модель персонажа по предоставленным референсам. Есть 6 изображений персонажа с разных ракурсов: спереди, сзади, слева, справа, сверху и снизу. Основным референсом считать вид спереди. Важно максимально точно сохранить внешность, пропорции, одежду и общий дизайн персонажа. Модель нужна для создания видеороликов с использованием захвата движений (Motion Capture), а не для 3D-печати или статичных рендеров. Требования: • полноценная модель всего тела; • качественная топология, пригодная для анимации; • текстуры и материалы; • humanoid-скелет и full-body rig; • корректный weight painting; • риг пальцев рук; • возможность переноса Full Body Motion Capture; • совместимость с VR-трекерами; • IK/FK; • полноценный facial rig; • движение глаз и моргание; • движение челюсти и губ; • мимика; • желательно 52 ARKit Blendshapes для захвата мимики лица; • волосы и элементы одежды должны корректно двигаться при анимации; • **вторичная физика мягких тканей тела, в том числе естественная физика груди при ходьбе, беге, прыжках и других движениях персонажа;** • физика должна корректно работать вместе с Full Body Motion Capture; • возможность дальнейшего редактирования и анимации в Blender; • желательно совместимость с Unreal Engine. В результате хочу получить готового к анимации персонажа, на которого можно переносить записанные движения моего тела и лица. Необходимые исходники: .blend + экспорт .FBX. При отклике, пожалуйста, укажите стоимость, сроки и покажите примеры созданных вами персонажей с ригом, мимикой и вторичной физикой.",
-      "budget": "",
-      "url": "https://www.fl.ru/projects/5523189/sozdanie-3d-personaja-s-rigom-dlya-motion-capture.html",
-      "queuedAt": 1790244285461,
-      "directFit": null
-    },
-    {
-      "source": "fl",
-      "id": "5523188",
-      "title": "Сделать сайт визитку",
-      "description": "Нужен сайт визитка в котором будут мои ссылки на соц сети и счетчик посещений.",
-      "budget": "",
-      "url": "https://www.fl.ru/projects/5523188/sdelat-sayt-vizitku-.html",
-      "queuedAt": 1790243932607,
-      "directFit": null
-    },
-    {
-      "source": "fl",
-      "id": "5523187",
-      "title": "Заказы на FL.ru (Фри-ланс)",
-      "description": "Cделать рассылку на телеграм группам",
-      "budget": "",
-      "url": "https://www.fl.ru/projects/5523187/cdelat-rassyilku-na-telegram-gruppam-.html",
-      "queuedAt": 1790243932206,
-      "directFit": null
-    },
-    {
-      "source": "fl",
-      "id": "5523185",
-      "title": "настройка рекламы образовательного продукта",
-      "description": "настройка рекламы образовательного продукта: проектная работа на дому в сфере Социальные сети / VK с бюджетом по договоренности. Опубликован 24.09.2026 в 12:52.",
-      "budget": "",
-      "url": "https://www.fl.ru/projects/5523185/nastroyka-reklamyi-obrazovatelnogo-produkta-.html",
-      "queuedAt": 1790243926368,
-      "directFit": null
-    },
-    {
-      "source": "fl",
-      "id": "5523183",
-      "title": "Анализировать сайт,и дать советы по поводу решения задачи",
-      "description": "Есть сайт онлайн очереди, этот сайт дает возможность каждому по 1 очереди,нужно сделать так чтобы можно было занять несколько очередей",
-      "budget": "",
-      "url": "https://www.fl.ru/projects/5523183/analizirovat-sayti-dat-sovetyi-po-povodu-resheniya-zadachi.html",
-      "queuedAt": 1790241765242,
-      "directFit": null
-    },
-    {
-      "source": "fl",
-      "id": "5523182",
-      "title": "Требуется сильный Python-разработчик для написания скрипта/бота",
-      "description": "Требуется сильный Python-разработчик для написания скрипта/бота: проектная работа на дому в сфере Программирование / Python с бюджетом по договоренности. Опубликован 24.09.2026 в 12:14.",
-      "budget": "",
-      "url": "https://www.fl.ru/projects/5523182/trebuetsya-silnyiy-python-razrabotchik-dlya-napisaniya-skripta-bota.html",
-      "queuedAt": 1790241409460,
-      "directFit": null
-    },
-    {
-      "source": "fl",
-      "id": "5523180",
-      "title": "Дизайн и верстка сайта",
-      "description": "Необходимо сделать ре-дизайн существующего статичного сайта и сверстать на Bootstrap фреймворке. Всего 5-6 страниц + дубль на английском.",
-      "budget": "",
-      "url": "https://www.fl.ru/projects/5523180/dizayn-i-verstka-sayta.html",
-      "queuedAt": 1790241048653,
-      "directFit": null
-    },
-    {
-      "source": "fl",
-      "id": "5523178",
-      "title": "Тестирование ЛК магазина",
-      "description": "Необходимо пользовательское тестирование интерфейса и функционала личного кабинета интернет магазина: - регистрация по телефону - авторизация по телефону/коду и почте/паролю -...",
-      "budget": "",
-      "url": "https://www.fl.ru/projects/5523178/testirovanie-lk-magazina.html",
-      "queuedAt": 1790239965661,
-      "directFit": null
-    },
-    {
-      "source": "fl",
-      "id": "5523176",
-      "title": "Нужны целевые лиды и увеличение продаж",
-      "description": "проектная работа на дому в сфере Реклама и Маркетинг / Контекстная реклама с бюджетом 10000 руб. Опубликован 24.09.2026 в 11:38.",
-      "budget": "10000 ₽",
-      "url": "https://www.fl.ru/projects/5523176/nujnyi-tselevyie-lidyi-i-uvelichenie-prodaj.html",
-      "queuedAt": 1790239247000,
-      "directFit": null
-    },
-    {
-      "source": "fl",
-      "id": "5523177",
-      "title": "Найти пропавшие 5 лет назад Lost Media в интернете",
-      "description": "проектная работа на дому в сфере Интернет-магазины / Аналитика магазина с бюджетом 500000 руб. Опубликован 24.09.2026 в 11:38.",
-      "budget": "500000 ₽",
-      "url": "https://www.fl.ru/projects/5523177/nayti-propavshie-5-let-nazad-lost-media-v-internete.html",
-      "queuedAt": 1790239246610,
-      "directFit": null
-    },
-    {
-      "source": "fl",
-      "id": "5523175",
-      "title": "Монтаж видео для Youtube",
-      "description": "Задача роликов: показать нашу экспертность, подход в подборе фабрики для дальнейшей работы+ контент для потенц покупателя услуги подбора/доставки Нужно подготовить 4 отдельных...",
-      "budget": "",
-      "url": "https://www.fl.ru/projects/5523175/montaj-video-dlya-youtube.html",
-      "queuedAt": 1790239246112,
-      "directFit": null
-    },
-    {
-      "source": "fl",
-      "id": "5523174",
-      "title": "Разработка фирменного стиля | брендбука | логотипа | ui-kit | дизайн-системы для ERP-системы",
-      "description": "Всем привет&#33; Ищем креативного и в то же время обладающего системным мышлением партнера. Наш продукт: ERP-система. Ее используют для цифровизации бизнес-процессов...",
-      "budget": "",
-      "url": "https://www.fl.ru/projects/5523174/razrabotka-firmennogo-stilya--brendbuka--logotipa--ui-kit--dizayn-sistemyi-dlya-erp-sistemyi.html",
-      "queuedAt": 1790238534208,
-      "directFit": null
-    },
-    {
-      "source": "fl",
-      "id": "5523173",
-      "title": "Google ads для мобильных игр со сквозной аналитикой",
-      "description": "Запустить рекламу мобильной игры в google ads Настроить сквозную аналитику Отслеживать эффективной рекламы Смотреть окупаемость пользователей У нас мобильная игра Landman:...",
-      "budget": "",
-      "url": "https://www.fl.ru/projects/5523173/google-ads-dlya-mobilnyih-igr-so-skvoznoy-analitikoy-.html",
-      "queuedAt": 1790238169516,
-      "directFit": null
-    },
-    {
-      "source": "fl",
-      "id": "5523171",
-      "title": "Необходимо развернуть приложение МТС на Android(эмуляторе) и сделать процесс получения ссылки СБП.",
-      "description": "Задача Необходимо развернуть приложение МТС Деньги на виртуальном Android-устройстве (эмуляторе) и автоматизировать процесс получения ссылки СБП. Текущая логика работы...",
-      "budget": "5000 ₽",
-      "url": "https://www.fl.ru/projects/5523171/-neobhodimo-razvernut-prilojenie-mts-na-androidemulyatore-i-sdelat-protsess-polucheniya-ssyilki-sbp.html",
-      "queuedAt": 1790237085805,
-      "directFit": null
-    },
-    {
-      "source": "fl",
-      "id": "5523172",
-      "title": "эскиз в dxf",
-      "description": "эскиз детали листовой нарисован от руки. размеры есть, нужно перевести его в dxf. будет 3 детали, которые отличаются габаритами. Эскиз прикрепил.",
-      "budget": "1000 ₽",
-      "url": "https://www.fl.ru/projects/5523172/eskiz-v-dxf-.html",
-      "queuedAt": 1790236729467,
-      "directFit": null
-    },
-    {
-      "source": "fl",
-      "id": "5523167",
-      "title": "reels - мэйкер",
-      "description": "Съемка и нарезка рилсов молодого врача с предварительным составлением контент плана видео на месяц.",
-      "budget": "",
-      "url": "https://www.fl.ru/projects/5523167/reels---meyker.html",
-      "queuedAt": 1790236369164,
-      "directFit": null
-    },
-    {
-      "source": "fl",
-      "id": "5523170",
-      "title": "скопировать калькулятор на наш сайт WP",
-      "description": "скопировать калькулятор на наш сайт WP: проектная работа на дому в сфере Сайты / WordPress с бюджетом по договоренности. Опубликован 24.09.2026 в 10:33.",
-      "budget": "",
-      "url": "https://www.fl.ru/projects/5523170/skopirovat-kalkulyator-na-nash-sayt-wp.html",
-      "queuedAt": 1790236009688,
-      "directFit": null
-    },
-    {
-      "source": "fl",
-      "id": "5523162",
-      "title": "реализация в 3d",
-      "description": "Нужно реализовать проект в 3D Пример скину в личку",
-      "budget": "",
-      "url": "https://www.fl.ru/projects/5523162/realizatsiya-v-3d.html",
-      "queuedAt": 1790235645896,
-      "directFit": null
-    },
-    {
-      "source": "fl",
-      "id": "5523169",
-      "title": "Профессиональный дизайн карточек для маркетплейсов",
-      "description": "Профессиональный дизайн карточек для маркетплейсов: проектная работа на дому в сфере Дизайн / Дизайн для маркетплейсов с бюджетом по договоренности. Опубликован 24.09.2026 в 10:25.",
-      "budget": "",
-      "url": "https://www.fl.ru/projects/5523169/professionalnyiy-dizayn-kartochek-dlya-marketpleysov.html",
-      "queuedAt": 1790234926661,
-      "directFit": null
-    },
-    {
-      "source": "fl",
-      "id": "5523168",
-      "title": "Оставить отзыв",
-      "description": "проектная работа на дому в сфере Тексты / Копирайтинг с бюджетом 150 руб. Опубликован 24.09.2026 в 10:24.",
-      "budget": "150 ₽",
-      "url": "https://www.fl.ru/projects/5523168/ostavit-otzyiv.html",
-      "queuedAt": 1790234925792,
-      "directFit": null
-    },
-    {
-      "source": "fl",
-      "id": "5523165",
-      "title": "Обучение по нейросетям для работы с фото и видео",
-      "description": "Обучение по нейросетям для работы с фото и видео: проектная работа на дому в сфере AI — искусственный интеллект / Генерация видео с бюджетом по договоренности. Опубликован 24.09.2026 в 10:19.",
-      "budget": "",
-      "url": "https://www.fl.ru/projects/5523165/obuchenie-po-neyrosetyam-dlya-rabotyi-s-foto-i-video.html",
-      "queuedAt": 1790234571012,
-      "directFit": null
-    },
-    {
-      "source": "fl",
-      "id": "5523166",
-      "title": "Администрирование сервера Debian",
-      "description": "Администрирование сервера Debian: проектная работа на дому в сфере Аутсорсинг и консалтинг / Системный администратор с бюджетом по договоренности. Опубликован 24.09.2026 в 10:15.",
-      "budget": "",
-      "url": "https://www.fl.ru/projects/5523166/administrirovanie-servera-debian.html",
-      "queuedAt": 1790234569964,
-      "directFit": null
-    },
-    {
-      "source": "fl",
-      "id": "5523159",
-      "title": "Написать сайт",
-      "description": "проектная работа на дому в сфере Сайты / Сайт «под ключ» с бюджетом 10000 руб. Опубликован 24.09.2026 в 10:09.",
-      "budget": "10000 ₽",
-      "url": "https://www.fl.ru/projects/5523159/napisat-sayt.html",
-      "queuedAt": 1790234507918,
-      "directFit": null
-    },
-    {
-      "source": "fl",
-      "id": "5523160",
-      "title": "Создать каталог в индизайн для печати 40 страниц",
-      "description": "проектная работа на дому в сфере Дизайн / Допечатная подготовка с бюджетом 7000 руб. Опубликован 24.09.2026 в 10:08.",
-      "budget": "7000 ₽",
-      "url": "https://www.fl.ru/projects/5523160/sozdat-katalog-v-indizayn-dlya-pechati-40-stranits.html",
-      "queuedAt": 1790234507442,
-      "directFit": null
-    },
-    {
-      "source": "fl",
-      "id": "5523163",
-      "title": "Дизайн календарных карточек",
-      "description": "Дизайн календарных карточек: проектная работа на дому в сфере Дизайн / Дизайн упаковки с бюджетом по договоренности. Опубликован 24.09.2026 в 10:08.",
-      "budget": "",
-      "url": "https://www.fl.ru/projects/5523163/dizayn-kalendarnyih-kartochek.html",
-      "queuedAt": 1790234507012,
-      "directFit": null
-    },
-    {
-      "source": "fl",
-      "id": "5523161",
-      "title": "Разработка интернет-магазина климатической техники на 1С-Битрикс с современным дизайном",
-      "description": "Разработка интернет-магазина климатической техники на 1С-Битрикс с современным дизайном: проектная работа на дому в сфере Сайты / 1С Битрикс с бюджетом по договоренности. Опубликован 24.09.2026 в 10:07.",
-      "budget": "",
-      "url": "https://www.fl.ru/projects/5523161/razrabotka-internet-magazina-klimaticheskoy-tehniki-na-1s-bitriks-s-sovremennyim-dizaynom.html",
-      "queuedAt": 1790234505895,
-      "directFit": null
-    },
-    {
-      "source": "fl",
-      "id": "5523164",
-      "title": "Правки на сайте WP",
-      "description": "проектная работа на дому в сфере Сайты / WordPress с бюджетом 1000 руб. Опубликован 24.09.2026 в 10:07.",
-      "budget": "1000 ₽",
-      "url": "https://www.fl.ru/projects/5523164/pravki-na-sayte-wp.html",
-      "queuedAt": 1790234447323,
-      "directFit": null
-    },
-    {
-      "source": "fl",
-      "id": "5523158",
-      "title": "Нужен бот разработчик в телеграмме",
-      "description": "Есть шаблон готовый бот который автоматизирует работу,сделать такой ж бот и плюс немного усовершенствовать.",
-      "budget": "",
-      "url": "https://www.fl.ru/projects/5523158/nujen-bot-razrabotchik-v-telegramme.html",
-      "queuedAt": 1790234446959,
-      "directFit": null
-    },
-    {
-      "source": "fl",
-      "id": "5523153",
-      "title": "Нужно сделать визуализацию для стойки под сувенирную продукцию в отель.",
-      "description": "проектная работа на дому в сфере Дизайн / Дизайн выставочных стендов с бюджетом 500 руб. Опубликован 24.09.2026 в 09:13.",
-      "budget": "500 ₽",
-      "url": "https://www.fl.ru/projects/5523153/nujno-sdelat-vizualizatsiyu-dlya-stoyki-pod-suvenirnuyu-produktsiyu-v-otel.html",
-      "queuedAt": 1790234446477,
-      "directFit": null
-    },
-    {
-      "source": "fl",
-      "id": "5523152",
-      "title": "Оставить положительный отзыв интернет-магазину.",
-      "description": "Оставить положительный отзыв интернет-магазину.: проектная работа на дому в сфере Тексты / Постинг с бюджетом 60 руб. Опубликован 24.09.2026 в 09:06.",
-      "budget": "60",
-      "url": "https://www.fl.ru/projects/5523152/ostavit-polojitelnyiy-otzyiv-internet-magazinu.html",
-      "queuedAt": 1790234446063,
-      "directFit": null
-    },
-    {
-      "source": "fl",
-      "id": "5523117",
-      "title": "Разработать логотип",
-      "description": "проектная работа на дому в сфере Дизайн / Логотипы с бюджетом 3000 руб. Опубликован 24.09.2026 в 08:07.",
-      "budget": "3000 ₽",
-      "url": "https://www.fl.ru/projects/5523117/razrabotat-logotip.html",
-      "queuedAt": 1790234388323,
-      "directFit": null
-    },
-    {
-      "source": "fl",
-      "id": "5523143",
-      "title": "Создать телеграм бота",
-      "description": "Здравствуйте надо написать код для бота в телеграм. Тз вышлю. и подключить к моему боту.",
-      "budget": "",
-      "url": "https://www.fl.ru/projects/5523143/sozdat-telegram-bota.html",
-      "queuedAt": 1790234387895,
-      "directFit": null
-    },
-    {
-      "source": "fl",
-      "id": "5523130",
-      "title": "Ads specialist for SaaS",
-      "description": "Ads specialist for SaaS: проектная работа на дому в сфере Реклама и Маркетинг / myTarget с бюджетом по договоренности. Опубликован 24.09.2026 в 08:05.",
-      "budget": "",
-      "url": "https://www.fl.ru/projects/5523130/ads-specialist-for-saas.html",
-      "queuedAt": 1790234328160,
-      "directFit": null
-    },
-    {
-      "source": "fl",
-      "id": "5523123",
-      "title": "Ручное тестирование Telegram Mini App крипто-кошелька (iOS/Android)",
-      "description": "Нужен ручной прогон мобильного приложения по сценариям и внятный отчёт. Продукт: QR2Pay - кошелёк в виде Telegram Mini App. Пополнение в USDT/TON/BNB, оплата по QR СБП, переводы, виртуальные карты для Apple Pay и Google Pay. Сценарии (12 шт., полный список выдаём после отклика): регистрация, вход, пополнение баланса, оплата по QR СБП, перевод другому пользователю, вывод, выпуск виртуальной карты, история операций, реферальная программа, обращение в поддержку, поведение при потере сети, возврат из фонового режима. Что нужно сдать: 1) таблица: шаг / ожидаемое / фактическое / серьёзность / скриншот; 2) отдельным блоком 10 UX-замечаний: где вы затупили, где непонятна формулировка, где не хватило подсказки. Этот блок для нас важнее списка багов; 3) устройство, версия ОС и версия Telegram. Своих средств вносить не требуется - это условие, а не оговорка. iOS и Android берём отдельно, бюджет указан за одну платформу. Можно откликнуться на обе. Работаем через Безопасную сделку. Срок - 3 дня с момента старта.",
-      "budget": "5000 ₽",
-      "url": "https://www.fl.ru/projects/5523123/ruchnoe-testirovanie-telegram-mini-app-kripto-koshelka-ios-android.html",
-      "queuedAt": 1790234327174,
-      "directFit": null
-    },
-    {
-      "source": "fl",
-      "id": "5523145",
-      "title": "Специалист по информационной безопасности: проектирование защиты B2B-платформы",
-      "description": "Специалист по информационной безопасности: проектирование защиты B2B-платформы: проектная работа на дому в сфере Аутсорсинг и консалтинг / Защита информации с бюджетом по договоренности. Опубликован 24.09.2026 в 08:03.",
-      "budget": "",
-      "url": "https://www.fl.ru/projects/5523145/spetsialist-po-informatsionnoy-bezopasnosti-proektirovanie-zaschityi-b2b-platformyi.html",
-      "queuedAt": 1790234326752,
       "directFit": null
     }
   ]
