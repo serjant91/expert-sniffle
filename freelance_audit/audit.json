@@ -3094,6 +3094,46 @@
   ],
   "pending": [
     {
+      "source": "kwork",
+      "id": "3258842",
+      "title": "Рассылка с тг преимум",
+      "description": "Нужен человек у которого есть ТГ премиум надо делать рассылку - объём хороший! Кол-во сообщений: 5000",
+      "budget": "2000.00",
+      "url": "https://kwork.ru/projects/3258842/view",
+      "queuedAt": 1790294698178,
+      "directFit": null
+    },
+    {
+      "source": "kwork",
+      "id": "3258844",
+      "title": "Создать систему автоработы с рефералами",
+      "description": "Нужно создать систему для работы с рефералами на английском моему ИНФО продукту нужны участники которые будут приглашать других",
+      "budget": "500.00",
+      "url": "https://kwork.ru/projects/3258844/view",
+      "queuedAt": 1790294697010,
+      "directFit": null
+    },
+    {
+      "source": "kwork",
+      "id": "3258846",
+      "title": "Персональный помощник",
+      "description": "Нужен человек на удалёнке который поможет с моим ежедневные хаосе систематизировать и контактировать ежедневно клиентов из моей группы",
+      "budget": "500.00",
+      "url": "https://kwork.ru/projects/3258846/view",
+      "queuedAt": 1790294696312,
+      "directFit": null
+    },
+    {
+      "source": "fl",
+      "id": "5523291",
+      "title": "Заказы на FL.ru (Фри-ланс)",
+      "description": "SEO эдалт индустрия. США. Не кликать, если нет опыта или не работаете с эдалт.",
+      "budget": "",
+      "url": "https://www.fl.ru/projects/5523291/seo-edalt-industriya-ssha-ne-klikat-esli-net-opyita-ili-ne-rabotaete-s-edalt-.html",
+      "queuedAt": 1790290611205,
+      "directFit": null
+    },
+    {
       "source": "fl",
       "id": "5523285",
       "title": "Оживить приложенную фотографию",
@@ -4051,46 +4091,6 @@
       "budget": "",
       "url": "https://www.fl.ru/projects/5523146/arhitektor---tehlid-sproektirovat-b2b-platformu-i-vozglavit-razrabotku.html",
       "queuedAt": 1790234325838,
-      "directFit": null
-    },
-    {
-      "source": "fl",
-      "id": "5523144",
-      "title": "Интерьер квартиры",
-      "description": "Интерьер квартиры: проектная работа на дому в сфере Дизайн / Интерьеры с бюджетом по договоренности. Опубликован 24.09.2026 в 08:03.",
-      "budget": "",
-      "url": "https://www.fl.ru/projects/5523144/interer-kvartiryi-.html",
-      "queuedAt": 1790234267917,
-      "directFit": null
-    },
-    {
-      "source": "fl",
-      "id": "5523134",
-      "title": "Настройка рекламной кампании в ВК в моем рекламном кабинете",
-      "description": "Настройка рекламной кампании в ВК в моем рекламном кабинете: проектная работа на дому в сфере Реклама и Маркетинг / ВКонтакте с бюджетом по договоренности. Опубликован 24.09.2026 в 08:02.",
-      "budget": "",
-      "url": "https://www.fl.ru/projects/5523134/nastroyka-reklamnoy-kampanii-v-vk-v-moem-reklamnom-kabinete.html",
-      "queuedAt": 1790234267026,
-      "directFit": null
-    },
-    {
-      "source": "fl",
-      "id": "5523147",
-      "title": "Разработка сайта с нуля",
-      "description": "Разработка сайта с нуля: проектная работа на дому в сфере Сайты / Сайт «под ключ» с бюджетом по договоренности. Опубликован 24.09.2026 в 08:01.",
-      "budget": "",
-      "url": "https://www.fl.ru/projects/5523147/razrabotka-sayta-s-nulya.html",
-      "queuedAt": 1790234208196,
-      "directFit": null
-    },
-    {
-      "source": "fl",
-      "id": "5523149",
-      "title": "Доработать сайт-каталог на Битриксе",
-      "description": "Сайт на тестовой ссылке Верстка(билд) есть. Нужно закончить интеграцию с Битрикс. ТЗ предоставим Нужна стоимость и сроки",
-      "budget": "",
-      "url": "https://www.fl.ru/projects/5523149/dorabotat-sayt-katalog-na-bitrikse.html",
-      "queuedAt": 1790234207250,
       "directFit": null
     }
   ]
