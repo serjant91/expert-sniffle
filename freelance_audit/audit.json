@@ -3095,6 +3095,56 @@
   "pending": [
     {
       "source": "fl",
+      "id": "5523485",
+      "title": "Настроить приложение data mobile с 1С",
+      "description": "проектная работа на дому в сфере Программирование / 1С-программирование с бюджетом 20000 руб. Опубликован 26.09.2026 в 20:17.",
+      "budget": "20000 ₽",
+      "url": "https://www.fl.ru/projects/5523485/nastroit-prilojenie-data-mobile-s-1s.html",
+      "queuedAt": 1790443213830,
+      "directFit": null
+    },
+    {
+      "source": "fl",
+      "id": "5523479",
+      "title": "парсинг",
+      "description": "Необходим Парсинг данных участников выставок.",
+      "budget": "",
+      "url": "https://www.fl.ru/projects/5523479/parsing.html",
+      "queuedAt": 1790441524118,
+      "directFit": null
+    },
+    {
+      "source": "fl",
+      "id": "5523470",
+      "title": "Отобрать Telegram каналы по определенным критериям",
+      "description": "Отобрать Telegram каналы по определенным критериям: проектная работа на дому в сфере Реклама и Маркетинг / Telegram с бюджетом 599 руб. Опубликован 26.09.2026 в 17:23.",
+      "budget": "",
+      "url": "https://www.fl.ru/projects/5523470/otobrat-telegram-kanalyi-po-opredelennyim-kriteriyam.html",
+      "queuedAt": 1790440565062,
+      "directFit": null
+    },
+    {
+      "source": "fl",
+      "id": "5523469",
+      "title": "Написать владельцам Telegram каналов",
+      "description": "Написать владельцам Telegram каналов: проектная работа на дому в сфере Социальные сети / Telegram с бюджетом 500 руб. Опубликован 26.09.2026 в 17:23.",
+      "budget": "",
+      "url": "https://www.fl.ru/projects/5523469/napisat-vladeltsam-telegram-kanalov.html",
+      "queuedAt": 1790437508169,
+      "directFit": null
+    },
+    {
+      "source": "fl",
+      "id": "5523463",
+      "title": "Редактировать текст в тетради",
+      "description": "В двенадцати страницах отредактировать текст (2-3 предложения на странице)",
+      "budget": "",
+      "url": "https://www.fl.ru/projects/5523463/redaktirovat-tekst-v-tetradi-.html",
+      "queuedAt": 1790433670598,
+      "directFit": null
+    },
+    {
+      "source": "fl",
       "id": "5523466",
       "title": "Логотип (знак) для технологической компании — минимализм с идеей",
       "description": "Логотип (знак) для технологической компании — минимализм с идеей: проектная работа на дому в сфере Дизайн / Логотипы с бюджетом 10000 руб. Опубликован 26.09.2026 в 17:02.",
@@ -4056,56 +4106,6 @@
       "budget": "",
       "url": "https://www.fl.ru/projects/5523334/sozdanie-bazyi-internet-magazinov-dlya-menedjera.html",
       "queuedAt": 1790330428837,
-      "directFit": null
-    },
-    {
-      "source": "fl",
-      "id": "5523333",
-      "title": "Необходима корректировка каталога компании",
-      "description": "Необходимо выполнить переработку каталога компании. Убрать лишние разделы, добавить новые.",
-      "budget": "",
-      "url": "https://www.fl.ru/projects/5523333/neobhodima-korrektirovka-kataloga-kompanii.html",
-      "queuedAt": 1790330426874,
-      "directFit": null
-    },
-    {
-      "source": "fl",
-      "id": "5523332",
-      "title": "Разработка рабочей документации (РД) разделов ОВиК и ВК в Revit 2021 (ЖК + Детский сад)",
-      "description": "Разработка рабочей документации (РД) разделов ОВиК и ВК в Revit 2021 (ЖК + Детский сад): проектная работа на дому в сфере Инжиниринг / BIM с бюджетом по договоренности. Опубликован 25.09.2026 в 12:20.",
-      "budget": "",
-      "url": "https://www.fl.ru/projects/5523332/razrabotka-rabochey-dokumentatsii-rd-razdelov-ovik-i-vk-v-revit-2021-jk--detskiy-sad.html",
-      "queuedAt": 1790330426524,
-      "directFit": null
-    },
-    {
-      "source": "fl",
-      "id": "5523331",
-      "title": "Нужны исполнители на разделы ПОС, ПБ и ООС",
-      "description": "проектная работа на дому в сфере Инжиниринг / Чертежи/Схемы с бюджетом 50000 руб. Опубликован 25.09.2026 в 12:05.",
-      "budget": "50000 ₽",
-      "url": "https://www.fl.ru/projects/5523331/nujnyi-ispolniteli-na-razdelyi-pos-pb-i-oos.html",
-      "queuedAt": 1790330425111,
-      "directFit": null
-    },
-    {
-      "source": "fl",
-      "id": "5523330",
-      "title": "Создание AI-мультсериала для TikTok о школьниках, 30–60 сек.",
-      "description": "Создание AI-мультсериала для TikTok о школьниках, 30–60 сек.: проектная работа на дому в сфере AI — искусственный интеллект / Генерация видео с бюджетом по договоренности. Опубликован 25.09.2026 в 12:04.",
-      "budget": "",
-      "url": "https://www.fl.ru/projects/5523330/sozdanie-ai-multseriala-dlya-tiktok-o-shkolnikah-3060-sek.html",
-      "queuedAt": 1790330424754,
-      "directFit": null
-    },
-    {
-      "source": "fl",
-      "id": "5523329",
-      "title": "Парсинг продавцов подвесных лодочных моторов, производителей лодок и катеров",
-      "description": "Парсинг продавцов подвесных лодочных моторов, производителей лодок и катеров: проектная работа на дому в сфере Аутсорсинг и консалтинг / Статистический анализ с бюджетом по договоренности. Опубликован 25.09.2026 в 12:03.",
-      "budget": "",
-      "url": "https://www.fl.ru/projects/5523329/parsing-prodavtsov-podvesnyih-lodochnyih-motorov-proizvoditeley-lodok-i-katerov.html",
-      "queuedAt": 1790330423826,
       "directFit": null
     }
   ]
