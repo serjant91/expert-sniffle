@@ -3095,6 +3095,36 @@
   "pending": [
     {
       "source": "fl",
+      "id": "5523569",
+      "title": "Крипта",
+      "description": "Инвестировать",
+      "budget": "",
+      "url": "https://www.fl.ru/projects/5523569/kripta.html",
+      "queuedAt": 1790538003592,
+      "directFit": null
+    },
+    {
+      "source": "fl",
+      "id": "5523565",
+      "title": "Менеджер по работе с клиентами",
+      "description": "Поиск заказов для продажи услуг по бизнес-анализу. Ведение заказа. Процент от запущенных заказов в производство.",
+      "budget": "",
+      "url": "https://www.fl.ru/projects/5523565/menedjer-po-rabote-s-klientami.html",
+      "queuedAt": 1790535966584,
+      "directFit": null
+    },
+    {
+      "source": "fl",
+      "id": "5523554",
+      "title": "Эскизный проект &#150; склада",
+      "description": "Эскизный проект - склада: проектная работа на дому в сфере Дизайн / Архитектура с бюджетом по договоренности. Опубликован 27.09.2026 в 18:02.",
+      "budget": "",
+      "url": "https://www.fl.ru/projects/5523554/eskiznyiy-proekt---sklada.html",
+      "queuedAt": 1790534168834,
+      "directFit": null
+    },
+    {
+      "source": "fl",
       "id": "5523552",
       "title": "Скорректировать обьявление на Avito, чтобы было более продающим",
       "description": "проектная работа на дому в сфере Реклама и Маркетинг / Продажи и генерация лидов с бюджетом 10000 руб. Опубликован 27.09.2026 в 17:57.",
@@ -4066,36 +4096,6 @@
       "budget": "",
       "url": "https://www.fl.ru/projects/5523413/kontseptsiya-genplana-sportivnogo-kampusa.html",
       "queuedAt": 1790403891544,
-      "directFit": null
-    },
-    {
-      "source": "fl",
-      "id": "5523384",
-      "title": "Настроить автозагрузку объявлений в Авито через Масспостинг",
-      "description": "Настроить автозагрузку объявлений в Авито через Масспостинг: проектная работа на дому в сфере Автоматизация бизнеса / Продажи с бюджетом по договоренности. Опубликован 26.09.2026 в 09:10.",
-      "budget": "",
-      "url": "https://www.fl.ru/projects/5523384/nastroit-avtozagruzku-obyyavleniy-v-avito-cherez-massposting.html",
-      "queuedAt": 1790403826511,
-      "directFit": null
-    },
-    {
-      "source": "fl",
-      "id": "5523411",
-      "title": "🧳 Автор контента для Telegram-канала",
-      "description": "🧳 Автор контента для Telegram-канала: проектная работа на дому в сфере Мессенджеры / Telegram с бюджетом по договоренности. Опубликован 26.09.2026 в 09:04.",
-      "budget": "",
-      "url": "https://www.fl.ru/projects/5523411/-avtor-kontenta-dlya-telegram-kanala-.html",
-      "queuedAt": 1790403357770,
-      "directFit": null
-    },
-    {
-      "source": "fl",
-      "id": "5523415",
-      "title": "Исправить ошибки",
-      "description": "Могу исправить ошибки",
-      "budget": "",
-      "url": "https://www.fl.ru/projects/5523415/ispravit-oshibki.html",
-      "queuedAt": 1790403107779,
       "directFit": null
     }
   ]
