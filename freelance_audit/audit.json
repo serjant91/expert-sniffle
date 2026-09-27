@@ -3095,6 +3095,16 @@
   "pending": [
     {
       "source": "fl",
+      "id": "5523573",
+      "title": "Стабильная подработка",
+      "description": "Монтажер удаленщик для соц сетей Авто-Блога",
+      "budget": "",
+      "url": "https://www.fl.ru/projects/5523573/stabilnaya-podrabotka-.html",
+      "queuedAt": 1790539324056,
+      "directFit": null
+    },
+    {
+      "source": "fl",
       "id": "5523569",
       "title": "Крипта",
       "description": "Инвестировать",
@@ -4086,16 +4096,6 @@
       "budget": "",
       "url": "https://www.fl.ru/projects/5523406/chat-bot-znakomstv-v-vkontakte-.html",
       "queuedAt": 1790404260707,
-      "directFit": null
-    },
-    {
-      "source": "fl",
-      "id": "5523413",
-      "title": "Концепция генплана спортивного кампуса",
-      "description": "Концепция генплана спортивного кампуса: проектная работа на дому в сфере Инжиниринг / Чертежи/Схемы с бюджетом по договоренности. Опубликован 26.09.2026 в 09:10.",
-      "budget": "",
-      "url": "https://www.fl.ru/projects/5523413/kontseptsiya-genplana-sportivnogo-kampusa.html",
-      "queuedAt": 1790403891544,
       "directFit": null
     }
   ]
